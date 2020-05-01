@@ -1,0 +1,25 @@
+{
+  "name": "wa-web",
+  "version": "1.0.0",
+  "description": "whatsappWeb",
+  "main": "run.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salimsea/wa-web.git"
+  },
+  "keywords": [
+    "wa-web"
+  ],
+  "author": "salimseal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salimsea/wa-web/issues"
+  },
+  "homepage": "https://github.com/salimsea/wa-web#readme",
+  "dependencies": {
+    "whatsapp-web.js": "^1.5.1"
+  }
+}
