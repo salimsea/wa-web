@@ -2,6 +2,8 @@
 
 ----
 ----
+(https://i.ibb.co/xgKTW6P/1.jpg)
+
 ### 💡 Install
 1. Install XAMPP
 2. Install NodeJS
