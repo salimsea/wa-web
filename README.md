@@ -2,7 +2,7 @@
 
 ----
 ----
-(https://i.ibb.co/xgKTW6P/1.jpg)
+(<img src="https://i.ibb.co/xgKTW6P/1.jpg">)
 
 ### 💡 Install
 1. Install XAMPP
