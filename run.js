@@ -85,8 +85,8 @@ client.on('auth_failure', msg => {
 });
 
 client.on('message', msg => {
-    if (msg.body == '!ping') {
-        msg.reply('pong');
+    if (msg.body == 'ping') {
+        msg.reply('bot ready');
     }
 });
 
