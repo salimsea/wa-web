@@ -11,4 +11,4 @@
 3. git clone 
 4. API use XAMPP (upload in htdocs/myfolder)
 5. Import database use XAMPP (localhost/phpmyadmin)
-6. last, write node run using git bash
+6. last, npm install -> node run (using git bash)
