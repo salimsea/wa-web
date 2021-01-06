@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/salimsea/wa-web#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "request": "^2.88.2",
     "whatsapp-web.js": "^1.5.1"
   }
